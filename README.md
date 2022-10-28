@@ -6,7 +6,7 @@
 
 # **CRYPTO.COM CLONE FOR COLLECTING LOGIN CREDENTIALS**
 
-:loud_sound: # **Features**.
+## :loud_sound:  **Features**.
 
 :accordion:Exact interface.
 
@@ -17,5 +17,5 @@
 :accordion:Easy to use.
 
 # **Socials**
-Teelegram:htttps://t.me/ananthubnair
+Telegram:https://t.me/ananthubnair
 twitter:https://twitter.com/Ananthunair300
