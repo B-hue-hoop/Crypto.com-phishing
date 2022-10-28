@@ -7,9 +7,13 @@
 # **CRYPTO.COM CLONE FOR COLLECTING LOGIN CREDENTIALSE**
 
 :loud_sound: # **Features**.
+
 :accordion:Exact interface.
+
 :accordion:Sends directly to telegram.
+
 :accordion:Instant notification.
+
 :accordion:Easy to use.
 
 # **Socials**
