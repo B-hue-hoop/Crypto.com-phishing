@@ -16,6 +16,8 @@
 
 :accordion:Easy to use.
 
+## **Workflow video** : https://youtu.be/8ckXpt2132Q
+
 # **Socials**
 Telegram:https://t.me/ananthubnair
 twitter:https://twitter.com/Ananthunair300
